@@ -1,9 +1,9 @@
 {
   "greeting": "Hey",
-  "name": "Pranav!🥰",
+  "name": "Swath!🥰",
   "greetingText": "'I really like your name btw!'",
   "wishText": "God is always be with you! ;)",
-  "imagePath": "img/sister.jpeg",
+  "imagePath": "img/swathi.jpeg",
   "text1": "It's your birthday!!!😍",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
@@ -12,12 +12,12 @@
   "text4": "I realised, I wanted to do something",
   "text4Adjective": "Special",
   "text5Entry": "Because,",
-  "text5Content": "You are Special",
+  "text5Content": "You are Very Special",
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
   "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "replayText": "Or Click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
